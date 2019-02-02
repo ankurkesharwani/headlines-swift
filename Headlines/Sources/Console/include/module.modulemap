@@ -1,0 +1,4 @@
+module Console [system] {
+  header "console.h"
+  export *
+}

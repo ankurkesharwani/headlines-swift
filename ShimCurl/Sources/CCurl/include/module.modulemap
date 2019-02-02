@@ -1,0 +1,5 @@
+module CCurl [system] {
+  header "CCurl.h"
+  link "curl"
+  export *
+}

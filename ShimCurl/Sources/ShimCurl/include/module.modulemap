@@ -1,0 +1,4 @@
+module ShimCurl [system] {
+  header "shim_curl.h"
+  export *
+}
